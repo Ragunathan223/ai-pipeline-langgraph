@@ -1,4 +1,4 @@
-# AI Engineer Assignment — LangGraph + LangChain + LangSmith (Skeleton)
+# AI Engineer  — LangGraph + LangChain + LangSmith (Skeleton)
 
 This repository is a **clean, modular skeleton** to implement:
 - Routing agent with **LangGraph**
