@@ -8,7 +8,7 @@ demonstrating RAG (Retrieval-Augmented Generation) over PDFs and real-time weath
 
 <img width="1849" height="1079" alt="image" src="https://github.com/user-attachments/assets/8365b6a7-2eb1-4a79-9440-b491e7e3afd8" />
 
-<img width="1849" height="1079" alt="LangGraph Dashboard" src="https://github.com/user-attachments/assets/d6680e80-957c-41ac-9f0b-a55e99b7dc18" />
+<img width="1849" height="1079" alt="image" src="https://github.com/user-attachments/assets/d6680e80-957c-41ac-9f0b-a55e99b7dc18" />
 
 ---
  
