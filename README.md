@@ -1,5 +1,3 @@
-<img width="1849" height="1079" alt="image" src="https://github.com/user-attachments/assets/8365b6a7-2eb1-4a79-9440-b491e7e3afd8" /># 🌦️ LangGraph RAG + Weather Agent
-
 A Streamlit-based AI application using **LangGraph**, **LangChain**, and **LangSmith** —  
 demonstrating RAG (Retrieval-Augmented Generation) over PDFs and real-time weather retrieval.
 
@@ -7,7 +5,7 @@ demonstrating RAG (Retrieval-Augmented Generation) over PDFs and real-time weath
 
 ## 🖼️ Demo Screenshot
 
-![LangGraph RAG + Weather Demo](assets/demo.png)
+<img width="1849" height="1079" alt="image" src="https://github.com/user-attachments/assets/8365b6a7-2eb1-4a79-9440-b491e7e3afd8" /># 🌦️ LangGraph RAG + Weather Agent
 
 ---
 
