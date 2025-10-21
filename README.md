@@ -1,23 +1,25 @@
-A Streamlit-based AI application using **LangGraph**, **LangChain**, and **LangSmith** —  
-demonstrating RAG (Retrieval-Augmented Generation) over PDFs and real-time weather retrieval.
-
----
-
-## 🖼️ Demo Screenshot 
 # 🌦️ LangGraph RAG + Weather Agent
 
-<img width="1849" height="1079" alt="image" src="https://github.com/user-attachments/assets/8365b6a7-2eb1-4a79-9440-b491e7e3afd8" />
-
-<img width="1849" height="1079" alt="image" src="https://github.com/user-attachments/assets/d6680e80-957c-41ac-9f0b-a55e99b7dc18" />
+A Streamlit-based AI application using **LangGraph**, **LangChain**, and **LangSmith** — demonstrating **RAG (Retrieval-Augmented Generation)** over PDFs and **real-time weather** retrieval, with vector storage in **Qdrant**.
 
 ---
- 
+
+## 🖼️ Demo Screenshots
+
+<img width="1849" height="1079" alt="Streamlit UI" src="https://github.com/user-attachments/assets/8365b6a7-2eb1-4a79-9440-b491e7e3afd8" />
+
+<img width="1849" height="1079" alt="LangSmith Tracing Dashboard" src="https://github.com/user-attachments/assets/d6680e80-957c-41ac-9f0b-a55e99b7dc18" />
+
+---
+
 ## 🚀 Features
-- **RAG over PDFs** (indexed in Qdrant)
-- **Real-time Weather Info** via OpenWeatherMap
-- **Combined Responses** (both weather + document context)
-- **LangSmith Integration** for tracing and evaluation
-- Clean modular code following best practices
+- **RAG over PDFs** (chunking + embeddings stored in Qdrant)
+- **Live Weather** via OpenWeatherMap (auto-fallback to Open-Meteo if no key)
+- **Agentic pipeline (LangGraph)**: combines PDF answer + weather every turn
+- **LLM via LangChain** (Groq/OpenAI, configurable)
+- **LangSmith** tracing + optional dataset logging (auto-creates dataset)
+- **Streamlit** chat UI with PDF upload & neat answer layout
+- **Unit tests** for router/RAG/weather logic (pytest)
 
 ---
 
