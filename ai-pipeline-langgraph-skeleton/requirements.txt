@@ -1,0 +1,29 @@
+# Core
+langchain>=0.3.7
+langgraph>=0.2.39
+langsmith>=0.1.127
+
+# LLM providers
+langchain-openai>=0.2.3
+langchain-groq>=0.2.1
+
+# Embeddings & loaders
+sentence-transformers>=3.1.1
+langchain-community>=0.3.7
+pypdf>=5.1.0
+
+# Vector DB
+qdrant-client[fastembed]>=1.12.2
+
+# Web & UI
+streamlit>=1.39.0
+requests>=2.32.3
+python-dotenv>=1.0.1
+pydantic-settings>=2.4.0
+
+# Dev
+pytest>=8.3.3
+pytest-asyncio>=0.24.0
+black>=24.8.0
+isort>=5.13.2
+ruff>=0.6.9
