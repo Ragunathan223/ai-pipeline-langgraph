@@ -8,10 +8,6 @@ A Streamlit-based AI application using **LangGraph**, **LangChain**, and **LangS
 
 <img width="1849" height="1079" alt="Streamlit UI" src="https://github.com/user-attachments/assets/8365b6a7-2eb1-4a79-9440-b491e7e3afd8" />
 
-### 🧠 LangSmith Tracing Dashboard
-
-<img width="1660" height="768" alt="LangGraph Trace" src="assets/langgraph.png" />
-
 ---
 
 ## 🚀 Features
