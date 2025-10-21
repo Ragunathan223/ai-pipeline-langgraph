@@ -1,5 +1,8 @@
 # 🧠 LangGraph RAG + Weather Agent
 
+![Uploading image.png…]()
+
+
 A simple AI pipeline using **LangGraph**, **LangChain**, and **LangSmith**, demonstrating:
 - RAG over uploaded PDF documents (stored in Qdrant)
 - Live weather data from OpenWeatherMap / Open-Meteo
